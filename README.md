@@ -1,6 +1,12 @@
 # JediSQL
 
-## Install MySQLdb
+這是超好用 API 把 `MySQLdb` 包起來
+
+## Get Start
+
+還沒有打算上傳到 PYPI 請大家直接 `import JediSQL`
+
+### Prerequisite: Install MySQLdb
 
 For Ubuntu
 
@@ -8,8 +14,6 @@ For Ubuntu
 sudo apt-get install python-pip python-dev libmysqlclient-dev
 pip install MySQL-python
 ```
-
-wrap `MySQLdb`
 
 ## Example
 
